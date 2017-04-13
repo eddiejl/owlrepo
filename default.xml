@@ -4,5 +4,5 @@
   <default revision="master" remote="origin" />
   <project path="mobile/ios" name="nathanowl/Alpha.git" remote="origin" />
   <project path="device" name="nathanowl/MachineVisionModule.git" remote="origin" />
-  <project path="mobile/android" name="nathanowl/AndroidPhoto.git" remote="origin" />
+  <project path="mobile/android" name="nathanowl/AndroidProto.git" remote="origin" />
 </manifest>
